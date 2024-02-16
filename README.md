@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Programming student and Cibersecurity Noob
 ------------------------------------------
 
-I'm in love with Cibersecurity and videogames.
+I'm in love with Cibersecurity and programming.
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [teamzzesp@gmail.com](mailto:teamzzesp@gmail.com)
