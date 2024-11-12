@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Aranda
 ===================================================================================================================================
 
-Programming student and Cibersecurity Noob
+Programming student and Cibersecurity Noob   <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 ------------------------------------------
 
 I'm in love with Cibersecurity and programming.
