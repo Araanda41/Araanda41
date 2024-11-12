@@ -19,10 +19,23 @@ I'm in love with Cibersecurity and programming.
 
 ### Socials
 
- <a href="https://www.github.com/Araanda41" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/juanaranda41/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+ <a href="https://www.github.com/Araanda41" target="_blank" rel="noreferrer">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
+   </picture>
+ </a>
+ <a href="https://www.linkedin.com/in/juanaranda41/" target="_blank" rel="noreferrer">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+   </picture>
+ </a>
+ <a href="https://tryhackme.com/r/p/Aranda41" target="_blank" rel="noreferrer">
+   <img src="https://yt3.googleusercontent.com/hfBAf9-rRBuMN_Iu9WMN2MxWj27rFjQAs8JsDGyNcRjw1C5Gmf8ep1DJc_Mc27vCASRe2VdTStg=s160-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="TryHackMe" />
+ </a>
+</p>
 
- 
-### TryHackMe Account
-
-* At the momento I use TryHackMe plattform to learn the previous conecpts for hacking and starting soon to solve CTF machines, check out my profile to track my progress and rooms done.
- https://tryhackme.com/r/p/Aranda41
