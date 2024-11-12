@@ -9,7 +9,7 @@ I'm in love with Cibersecurity and programming.
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [teamzzesp@gmail.com](mailto:teamzzesp@gmail.com)
 * 🧠  I'm learning Multiplattform Apps Development, with Java, SQL, Kotlin, MongoDB... I'm also triying to learn the basics to start practising with HackTheBox machines: Linux concepts, Networks and some python on my own.
-* ⚡  I love dogs,cooking and Football
+* ⚡  I love dogs, cooking and Football
 
 ### Skills
 
