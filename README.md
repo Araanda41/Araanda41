@@ -1,3 +1,8 @@
+
+
+<img width="1834" alt="Banner" src="https://github.com/user-attachments/assets/9b017730-71ed-4460-bd6d-e3bea461ed4b">
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Aranda
 ===================================================================================================================================
 
