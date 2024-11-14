@@ -3,18 +3,11 @@
 <img width="1834" alt="Banner" src="https://github.com/user-attachments/assets/9b017730-71ed-4460-bd6d-e3bea461ed4b">
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Aranda
-===================================================================================================================================
-
-Programming student and Cibersecurity Noob   <picture><img 
-src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
-------------------------------------------
 
 
+### About Me  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 
-Here's a corrected version of your text with grammar and syntax improvements:
 
-*  Programming Student and Cybersecurity Enthusiast
 *  💘 I'm passionate about cybersecurity and programming.
 *  🌍 Based in Madrid.
 *  ✉️ You can contact me at teamzzesp@gmail.com.
