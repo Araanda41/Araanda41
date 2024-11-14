@@ -8,11 +8,11 @@
 ### About Me  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 
 
-*  💘 I'm passionate about cybersecurity and programming.
+*  ⚡ I'm passionate about cybersecurity and programming.
 *  🌍 Based in Madrid.
 *  ✉️ You can contact me at teamzzesp@gmail.com.
 *  🧠 I'm studying Software Development at U-TAD, working with Java, SQL, Kotlin, MongoDB, and more. I'm also learning the basics to start practicing with HackTheBox machines: Linux concepts, networking, and some Python on my own.
-*  ⚡I love dogs, cooking, and football.
+*  💘 I love dogs, cooking, and football.
 
 ### Skills
 
