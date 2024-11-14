@@ -1,15 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Aranda
 ===================================================================================================================================
 
-Programming student and Cibersecurity Noob   <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
+Programming student and Cibersecurity Noob   <picture><img 
+src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
 ------------------------------------------
 
-I'm in love with Cibersecurity and programming.
 
-* 🌍  I'm based in Madrid
-* ✉️  You can contact me at [teamzzesp@gmail.com](mailto:teamzzesp@gmail.com)
-* 🧠  I'm learning Multiplattform Apps Development, with Java, SQL, Kotlin, MongoDB... I'm also triying to learn the basics to start practising with HackTheBox machines: Linux concepts, Networks and some python on my own.
-* ⚡  I love dogs, cooking and Football
+
+Here's a corrected version of your text with grammar and syntax improvements:
+
+*  Programming Student and Cybersecurity Enthusiast
+*  💘 I'm passionate about cybersecurity and programming.
+*  🌍 Based in Madrid.
+*  ✉️ You can contact me at teamzzesp@gmail.com.
+*  🧠 I'm studying Software Development at U-TAD, working with Java, SQL, Kotlin, MongoDB, and more. I'm also learning the basics to start practicing with HackTheBox machines: Linux concepts, networking, and some Python on my own.
+*  ⚡I love dogs, cooking, and football.
 
 ### Skills
 
