@@ -19,7 +19,7 @@
 
 <p align="left">
 
-### Programming Languajes
+### Programming Languages
 <img width="144" height= "36" alt="Languajes" src="https://skillicons.dev/icons?i=java,python,kotlin,swift"/>
 
 ### Web Development
