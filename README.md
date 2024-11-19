@@ -28,7 +28,7 @@
 ### Database Management
 <img width="72" height= "36" alt="Database Management" src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-### Operating Sytems & Shells
+### Operating Systems & Shells
 <img width="180" height= "36" alt="SO" src="https://skillicons.dev/icons?i=linux,windows,arch,powershell,bash"/>
 
 ### Tools & Technologies
