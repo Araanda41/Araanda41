@@ -1,7 +1,6 @@
 
 
-<img width="1834" alt="Make your README " src="https://github.com/user-attachments/assets/8449f15f-9faa-444b-8f6e-b570fdfcbee9">
-
+<img width="1834" alt="Make your README (3)" src="https://github.com/user-attachments/assets/1149519e-6d9b-4e0b-8d5d-3ec780ebe852" />
 
 
 
