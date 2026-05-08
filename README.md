@@ -52,8 +52,5 @@
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
    </picture>
  </a>
- <a href="https://tryhackme.com/r/p/Aranda41" target="_blank" rel="noreferrer">
-   <img src="https://yt3.googleusercontent.com/hfBAf9-rRBuMN_Iu9WMN2MxWj27rFjQAs8JsDGyNcRjw1C5Gmf8ep1DJc_Mc27vCASRe2VdTStg=s160-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="TryHackMe" />
- </a>
 </p>
 
