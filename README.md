@@ -1,6 +1,9 @@
 
 
-<img width="1834" alt="Make your README (3)" src="https://github.com/user-attachments/assets/1149519e-6d9b-4e0b-8d5d-3ec780ebe852" />
+<img width="2944" height="840" alt="banner_jellyfish" src="https://github.com/user-attachments/assets/46d514ea-983e-4147-b18f-0ec55370e5f2" />
+
+
+
 
 
 
