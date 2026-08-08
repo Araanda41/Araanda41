@@ -8,52 +8,42 @@
 
 
 
-## About Me  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
-
-
-*  ⚡ I'm passionate about cybersecurity and programming.
-*  🌍 Based in Madrid.
-*  ✉️ You can contact me at teamzzesp@gmail.com.
-*  🧠 I'm studying Software Development at U-TAD, working with Java, SQL, Kotlin, MongoDB, and more. I'm also learning the basics to start practicing with TryHackMe machines: Linux concepts, networking, and some Python on my own.
-*  💘 I love dogs, cooking, and football.
-
-## Skills
-
-<p align="left">
-
-### Programming Languages
-<img width="144" height= "36" alt="Languajes" src="https://skillicons.dev/icons?i=java,python,kotlin,swift"/>
-
-### Web Development
-<img width="108" height= "36" alt="Web Development" src="https://skillicons.dev/icons?i=html,css,js"/>
-
-### Database Management
-<img width="72" height= "36" alt="Database Management" src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-### Operating Systems & Shells
-<img width="180" height= "36" alt="SO" src="https://skillicons.dev/icons?i=linux,windows,arch,powershell,bash"/>
-
-### Tools & Technologies
-<img width="180" height= "36" alt="" src="https://skillicons.dev/icons?i=git,docker,aws,postman,notion"/>
-
+## About Me
  
-
+- ⚡ I'm passionate about cybersecurity, infrastructure and programming.
+- 🌍 Based in Madrid.
+- ✉️ You can contact me at <teamzzesp@gmail.com>.
+- 🧠 Studying Software Engineering at U-TAD, after graduating in Multiplatform App Development (DAM).
+- 🖥️ I run a two-node Linux homelab with 23 containerised services. Most of what I know comes from keeping it alive.
+- 🎯 Currently preparing for the eJPTv2 certification.
+## Skills
+ 
+### Infrastructure & DevOps
+ 
+Docker · Docker Compose · Gitea Actions · GitHub Actions · Git · Portainer · SSH deployment automation · cron · MergerFS
+ 
+*Learning:* Terraform · Ansible · Kubernetes (k3s) · AWS
+ 
+### Networking & Security
+ 
+WireGuard · Caddy (reverse proxy, wildcard TLS via ACME DNS-01) · Pi-hole (split-horizon DNS) · Cloudflare Tunnel & DDNS · Firewall rules · Secrets management
+ 
+*Offensive security labs:* Kali Linux · Nmap · Gobuster · WPScan · Burp Suite · privilege escalation · Metasploit
+ 
+### Android
+ 
+Kotlin · Jetpack Compose · Hilt · Retrofit · Coroutines · REST APIs · Firebase · Token-based auth · Geolocation · Local persistence
+ 
+### Languages & Web
+ 
+Java · C · C++ · Python · Bash · SQL · JavaScript · Astro · Tailwind CSS
+ 
+### Systems & Databases
+ 
+Linux (Ubuntu Server, Debian, Arch, Kali) · Windows · Bash · PowerShell · WSL2
+ 
+PostgreSQL · MySQL · SQLite · MongoDB
+ 
 ## Socials
-
-<p align="left">
- <a href="https://www.github.com/Araanda41" target="_blank" rel="noreferrer">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
-   </picture>
- </a>
- <a href="https://www.linkedin.com/in/juanaranda41/" target="_blank" rel="noreferrer">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
-   </picture>
- </a>
-</p>
-
+ 
+[LinkedIn](https://www.linkedin.com/in/juanarandacarrasco) · [TryHackMe](https://tryhackme.com/p/Aranda41)
